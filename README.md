@@ -1,5 +1,5 @@
 # Single Page Application & Adaptive "Intelly"
-JavaScript Project "Intelly" With Global Adaptive And Functional Of Controlle Your Profit
+JavaScript Project "Intelly" With Global Adaptive And Functional Of Controlling Your Profit
 
 ➼ Technology stack: HTML (HTML5), CSS (CSS3), JavaScript, SCSS/Sass, GULP, (Flexbox - Grid), BEM.
 
